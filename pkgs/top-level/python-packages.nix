@@ -7831,6 +7831,8 @@ in {
 
   tailer = callPackage ../development/python-modules/tailer { };
 
+  tappy = callPackage ../development/python-modules/tappy { };
+
   tasklib = callPackage ../development/python-modules/tasklib { };
 
   taskw = callPackage ../development/python-modules/taskw { };
